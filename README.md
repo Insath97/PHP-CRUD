@@ -1,6 +1,7 @@
 # PHP CRUD Application
 
-This PHP CRUD (Create, Read, Update, Delete) application is developed by Mohamed Insath using Bootstrap 5 and Sweet Alert.
+This PHP CRUD (Create, Read, Update, Delete) application is built using Bootstrap 5 for front-end styling and Sweet Alert for enhanced user alerts. Developed by Mohamed Insath, this application allows users to manage student records with ease. It provides functionalities to add new students, update existing records, delete entries, and view the student database in a user-friendly interface.
+
 
 ## Installation
 
@@ -49,10 +50,12 @@ This PHP CRUD (Create, Read, Update, Delete) application is developed by Mohamed
 - You can also update or delete existing student records.
   
   
-![Screenshot (250)](https://github.com/Insath97/PHP-CRUD/assets/143359385/3e6289d0-b801-4e3b-acaa-f2efd76bbbc4)
+![Screenshot (252)](https://github.com/Insath97/PHP-CRUD/assets/143359385/fddfe033-f04e-4ba0-a933-e94a53f8e2d0)
 
-![Screenshot (249)](https://github.com/Insath97/PHP-CRUD/assets/143359385/602b6dd3-d49e-4124-8331-d1c9377b6b2c)
 
-![Screenshot (248)](https://github.com/Insath97/PHP-CRUD/assets/143359385/28a6cc7c-e9b3-41f6-9ea3-bd766b341c61)
+![Screenshot (251)](https://github.com/Insath97/PHP-CRUD/assets/143359385/91b7f313-8c94-4477-9d3a-c8167fb8010b)
+
+
+![Screenshot (250)](https://github.com/Insath97/PHP-CRUD/assets/143359385/1b2d3758-b75b-4eb2-8618-78f2eb58ae6e)
 
 
