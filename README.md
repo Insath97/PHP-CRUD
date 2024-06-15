@@ -2,7 +2,6 @@
 
 This PHP CRUD (Create, Read, Update, Delete) application is built using Bootstrap 5 for front-end styling and Sweet Alert for enhanced user alerts. Developed by Mohamed Insath, this application allows users to manage student records with ease. It provides functionalities to add new students, update existing records, delete entries, and view the student database in a user-friendly interface.
 
-
 ## Installation
 
 ### Method 1: Using Git
