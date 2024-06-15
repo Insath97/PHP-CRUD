@@ -1,6 +1,6 @@
-# PHP CRUD Application with Bootstrap 5 and Sweet Alert
+# PHP CRUD Application
 
-This is a PHP CRUD (Create, Read, Update, Delete) application built using Bootstrap 5 and Sweet Alert.
+This PHP CRUD (Create, Read, Update, Delete) application is developed by Mohamed Insath using Bootstrap 5 and Sweet Alert.
 
 ## Installation
 
@@ -8,7 +8,7 @@ This is a PHP CRUD (Create, Read, Update, Delete) application built using Bootst
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Insath97/PHP-CRUD.git
     ```
 
 2. Navigate to the project directory:
