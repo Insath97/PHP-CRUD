@@ -47,8 +47,12 @@ This PHP CRUD (Create, Read, Update, Delete) application is developed by Mohamed
 - Once the application is running, you can perform CRUD operations on the student database.
 - Click on the "Add New Student" button to add a new student.
 - You can also update or delete existing student records.
+  
+  
 ![Screenshot (250)](https://github.com/Insath97/PHP-CRUD/assets/143359385/3e6289d0-b801-4e3b-acaa-f2efd76bbbc4)
+
 ![Screenshot (249)](https://github.com/Insath97/PHP-CRUD/assets/143359385/602b6dd3-d49e-4124-8331-d1c9377b6b2c)
+
 ![Screenshot (248)](https://github.com/Insath97/PHP-CRUD/assets/143359385/28a6cc7c-e9b3-41f6-9ea3-bd766b341c61)
 
 
