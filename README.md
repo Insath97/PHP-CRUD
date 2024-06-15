@@ -50,5 +50,5 @@ This is a PHP CRUD (Create, Read, Update, Delete) application built using Bootst
 ![Screenshot (250)](https://github.com/Insath97/PHP-CRUD/assets/143359385/3e6289d0-b801-4e3b-acaa-f2efd76bbbc4)
 ![Screenshot (249)](https://github.com/Insath97/PHP-CRUD/assets/143359385/602b6dd3-d49e-4124-8331-d1c9377b6b2c)
 ![Screenshot (248)](https://github.com/Insath97/PHP-CRUD/assets/143359385/28a6cc7c-e9b3-41f6-9ea3-bd766b341c61)
-![Screenshot (190)](https://github.com/Insath97/PHP-CRUD/assets/143359385/580932b4-8ecc-43a6-9ccd-6740b0ea53f3)
+
 
